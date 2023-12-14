@@ -1,0 +1,12 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:boarder-box;
+
+  
+}
+
+#dark{
+  background-color: #070707;
+  color: azure;
+}
